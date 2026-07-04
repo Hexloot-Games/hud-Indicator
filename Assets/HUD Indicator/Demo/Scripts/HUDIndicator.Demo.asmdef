@@ -1,0 +1,16 @@
+{
+    "name": "HUDIndicator.Demo",
+    "rootNamespace": "HUDIndicator.Demo",
+    "references": [
+        "HUDIndicator"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
